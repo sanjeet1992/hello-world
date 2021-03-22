@@ -4,3 +4,4 @@
 <h2> Hello Sanjeet How are you what are you doing now...?</h2>
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <p style="background-color:Tomato;">Lorem ipsum...</p>
+<h2 style="color:pink;background-color:yellow;">Nishi</h2>
